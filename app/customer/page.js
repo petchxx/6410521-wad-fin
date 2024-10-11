@@ -157,6 +157,7 @@ export default function Customer() {
               name="member_number"
               label="Member Number"
               fullWidth
+              type="number"
               variant="standard"
               className="w-80"
               value={member_number}
